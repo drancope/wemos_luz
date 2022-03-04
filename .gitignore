@@ -1,0 +1,3 @@
+.clang_complete
+.gcc-flags.json
+src/priv_datareal.h
